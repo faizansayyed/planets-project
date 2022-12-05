@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/faizansayyed/planets-project#readme",
   "dependencies": {
-    "csv-parser": "^3.0.0"
+    "csv-parse": "^5.3.3"
   }
 }
